@@ -1,8 +1,8 @@
 <!-- src/App.vue -->
 <template>
-  <PokemonList />
+  <BucinPage />
 </template>
 
 <script setup>
-import PokemonList from './components/PokemonList.vue'
+import BucinPage from './components/BucinPage.vue'
 </script>
